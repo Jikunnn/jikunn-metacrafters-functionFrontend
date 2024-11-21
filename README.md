@@ -1,4 +1,4 @@
-#Project: Function Frontend
+# Project: Function Frontend
 
 A metacrafters project submitted by Joshua James Arcelao with the student email of 202110565@fit.edu.ph
 
