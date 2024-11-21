@@ -1,6 +1,6 @@
 #Project: Function Frontend
 
-## A metacrafters project submitted by Joshua James Arcelao with the student email of 202110565@fit.edu.ph
+A metacrafters project submitted by Joshua James Arcelao with the student email of 202110565@fit.edu.ph
 
 
 # Assessment.sol Smart Contract
