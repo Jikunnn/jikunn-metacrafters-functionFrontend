@@ -20,22 +20,22 @@ This smart contract is written in Solidity and provides several functionalities 
 
 ## Functions
 
-### `getBalance`
+### getBalance
 - **Returns** the current balance of the contract.
 
-### `getMessage`
+### getMessage
 - **Returns** the current message stored in the contract.
 
-### `getOwner`
+### getOwner
 - **Returns** the owner's address.
 
-### `setMessage`
+### setMessage
 - **Allows the owner** to set a new message.
 
-### `deposit`
+### deposit
 - **Allows the owner** to deposit funds into the contract.
 
-### `withdraw`
+### withdraw
 - **Allows the owner** to withdraw funds from the contract.
 
 ## Events
