@@ -40,13 +40,13 @@ This smart contract is written in Solidity and provides several functionalities 
 
 ## Events
 
-### `Deposit`
+### Deposit
 - **Emitted** when funds are deposited.
 
-### `Withdraw`
+### Withdraw
 - **Emitted** when funds are withdrawn.
 
-### `MessageChanged`
+### MessageChanged
 - **Emitted** when the message is updated.
 
 ## Usage
